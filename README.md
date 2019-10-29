@@ -47,6 +47,7 @@ Apache Commons Text
 [![Coverage Status](https://coveralls.io/repos/apache/commons-text/badge.svg)](https://coveralls.io/r/apache/commons-text)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.commons/commons-text/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.apache.commons/commons-text/)
 [![Javadocs](https://javadoc.io/badge/org.apache.commons/commons-text/1.8.svg)](https://javadoc.io/doc/org.apache.commons/commons-text/1.8)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-text.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-text?ref=badge_shield)
 
 Apache Commons Text is a library focused on algorithms working on strings.
 
@@ -103,3 +104,6 @@ Additional Resources
 + `#apache-commons` IRC channel on `irc.freenode.org`
 
 [ml]:https://commons.apache.org/mail-lists.html
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-text.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-text?ref=badge_large)
